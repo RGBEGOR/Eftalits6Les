@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 740" role="img" aria-labelledby="waterTitle waterDesc">
+<title id="waterTitle">Орошение полей и садов</title><desc id="waterDesc">От реки отводят канал. Из канала вода поступает на поле и в сад. Орошение помогает получить урожай. Примеры каналов из урока: Зогарык, Бозсу, Даргом.</desc>
+<path d="M35 218C180 105 260 235 393 149S656 211 744 133S959 196 1060 102L1071 200C907 285 857 174 741 244S509 214 391 266S154 223 52 306Z" fill="#a4e1ed"/>
+<path d="M56 256C210 177 255 284 405 207S658 268 745 190S957 241 1067 151" stroke="#fff" stroke-width="4" stroke-dasharray="18 18" class="flow-dashes" fill="none"/>
+<path d="M544 228V377H288V471M544 377H845V473" stroke="#bbac8e" stroke-width="42" fill="none" stroke-linejoin="round"/>
+<path d="M544 228V377H288V471M544 377H845V473" stroke="#8cd5e8" stroke-width="26" fill="none" stroke-linejoin="round"/>
+<path d="M544 228V377H288V471M544 377H845V473" stroke="#fff" stroke-width="4" stroke-dasharray="12 24" fill="none" class="flow-dashes"/>
+<g transform="translate(117 444)"><path d="M0 56 196 0l176 94-196 81Z" fill="#e8cd83"/><path d="M0 56v18l176 119v-18Zm176 119v18l196-81V94Z" fill="#c5a866"/>
+<g stroke="#af9050" stroke-width="4" fill="none"><path d="m34 47 173 116M72 36l173 111M113 26l171 105M154 13l169 101"/></g>
+<g class="crop-growth" stroke="#708c41" stroke-width="5" stroke-linecap="round" fill="none"><path d="M98 78V42m0 20-13-11m13 4 12-13M165 57V21m0 20-13-11m13 4 12-13M163 128V92m0 20-13-11m13 4 12-13M232 108V72m0 20-13-11m13 4 12-13M280 91V55m0 20-13-11m13 4 12-13"/></g></g>
+<g transform="translate(661 430)"><path d="M0 90 175 15l204 87-186 92Z" fill="#bfd3a0"/>
+<g stroke="#8b7754" stroke-width="10"><path d="M80 108V41M181 142V68M252 83V17"/></g><g fill="#769d56"><circle cx="80" cy="38" r="37"/><circle cx="181" cy="68" r="40"/><circle cx="252" cy="20" r="38"/></g><g fill="#e49c59"><circle cx="65" cy="27" r="7"/><circle cx="93" cy="46" r="7"/><circle cx="166" cy="59" r="7"/><circle cx="197" cy="80" r="7"/><circle cx="240" cy="12" r="7"/><circle cx="267" cy="33" r="7"/></g></g>
+<g font-family="Arial,DejaVu Sans,sans-serif" font-weight="700" fill="#11144b" font-size="34"><text x="116" y="106">Река</text><text x="591" y="325">Канал</text><text x="248" y="662">Поле</text><text x="809" y="662">Сад</text></g>
+<text x="550" y="724" text-anchor="middle" font-family="Arial,DejaVu Sans,sans-serif" font-size="28" fill="#7653d7">Зогарык · Бозсу · Даргом</text></svg>

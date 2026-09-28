@@ -1,0 +1,576 @@
+[
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 11,
+    "text": "ЭФТАЛИТЫ",
+    "size": 14,
+    "bold": true
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 17,
+    "text": "ВЛАСТЬ, ГОРОДА И ТОРГОВЛЯ",
+    "size": 10.7,
+    "bold": true
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 22.5,
+    "text": "История Узбекистана  •  7 класс",
+    "size": 9,
+    "bold": false
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 29,
+    "text": "Имя, класс:",
+    "size": 9.5,
+    "bold": false
+  },
+  {
+    "kind": "line",
+    "x": 31,
+    "y": 29.9,
+    "x2": 108,
+    "y2": 29.9,
+    "width": 0.18
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 36,
+    "text": "1  ВРЕМЯ И ТЕРРИТОРИЯ",
+    "size": 9.8,
+    "bold": true
+  },
+  {
+    "kind": "line",
+    "x": 7,
+    "y": 37.7,
+    "x2": 141.5,
+    "y2": 37.7,
+    "width": 0.22
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 42,
+    "text": "Эфталиты правили в Туране — в Средней Азии.",
+    "size": 10,
+    "bold": false
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 49,
+    "text": "Период:",
+    "size": 10.2,
+    "bold": false
+  },
+  {
+    "kind": "line",
+    "x": 26,
+    "y": 50.1,
+    "x2": 141.5,
+    "y2": 50.1,
+    "width": 0.15
+  },
+  {
+    "kind": "text",
+    "x": 26.6,
+    "y": 49,
+    "text": "V–VI века",
+    "size": 10.2,
+    "bold": false,
+    "field": "period",
+    "category": "answer"
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 56,
+    "text": "Два города:",
+    "size": 10.2,
+    "bold": false
+  },
+  {
+    "kind": "line",
+    "x": 34,
+    "y": 57.1,
+    "x2": 141.5,
+    "y2": 57.1,
+    "width": 0.15
+  },
+  {
+    "kind": "text",
+    "x": 34.6,
+    "y": 56,
+    "text": "Бухара, Самарканд",
+    "size": 10.2,
+    "bold": false,
+    "field": "cities",
+    "category": "example"
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 63,
+    "text": "2  УПРАВЛЕНИЕ",
+    "size": 9.8,
+    "bold": true
+  },
+  {
+    "kind": "line",
+    "x": 7,
+    "y": 64.7,
+    "x2": 141.5,
+    "y2": 64.7,
+    "width": 0.22
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 70,
+    "text": "Монархия —",
+    "size": 10.2,
+    "bold": false
+  },
+  {
+    "kind": "line",
+    "x": 35,
+    "y": 71.1,
+    "x2": 141.5,
+    "y2": 71.1,
+    "width": 0.15
+  },
+  {
+    "kind": "text",
+    "x": 35.6,
+    "y": 70,
+    "text": "власть одного правителя",
+    "size": 10.2,
+    "bold": false,
+    "field": "monarchy",
+    "category": "definition"
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 77,
+    "text": "Династия —",
+    "size": 10.2,
+    "bold": false
+  },
+  {
+    "kind": "line",
+    "x": 34,
+    "y": 78.1,
+    "x2": 141.5,
+    "y2": 78.1,
+    "width": 0.15
+  },
+  {
+    "kind": "text",
+    "x": 34.6,
+    "y": 77,
+    "text": "ряд правителей из одного рода",
+    "size": 10.2,
+    "bold": false,
+    "field": "dynasty",
+    "category": "definition"
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 84,
+    "text": "Кандидата на престол выдвигал",
+    "size": 10.2,
+    "bold": false
+  },
+  {
+    "kind": "line",
+    "x": 77,
+    "y": 85.1,
+    "x2": 141.5,
+    "y2": 85.1,
+    "width": 0.15
+  },
+  {
+    "kind": "text",
+    "x": 77.6,
+    "y": 84,
+    "text": "совет знати",
+    "size": 10.2,
+    "bold": false,
+    "field": "council",
+    "category": "answer"
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 92,
+    "text": "3  ВОЙСКО И ВАЖНАЯ ДАТА",
+    "size": 9.8,
+    "bold": true
+  },
+  {
+    "kind": "line",
+    "x": 7,
+    "y": 93.7,
+    "x2": 141.5,
+    "y2": 93.7,
+    "width": 0.22
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 98,
+    "text": "Государство опиралось на военную силу.",
+    "size": 10,
+    "bold": false
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 105,
+    "text": "В",
+    "size": 10.2,
+    "bold": false
+  },
+  {
+    "kind": "line",
+    "x": 12,
+    "y": 106.1,
+    "x2": 31,
+    "y2": 106.1,
+    "width": 0.15
+  },
+  {
+    "kind": "text",
+    "x": 12.6,
+    "y": 105,
+    "text": "484",
+    "size": 10.2,
+    "bold": false,
+    "field": "year",
+    "category": "answer"
+  },
+  {
+    "kind": "text",
+    "x": 33,
+    "y": 105,
+    "text": "году шах Пероз потерпел поражение и погиб.",
+    "size": 9.5,
+    "bold": false
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 111,
+    "text": "Всадники владели верховой ездой и стрельбой из лука.",
+    "size": 9.6,
+    "bold": false
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 118,
+    "text": "4  ХОЗЯЙСТВО И ВОДА",
+    "size": 9.8,
+    "bold": true
+  },
+  {
+    "kind": "line",
+    "x": 7,
+    "y": 119.7,
+    "x2": 141.5,
+    "y2": 119.7,
+    "width": 0.22
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 124,
+    "text": "Ирригация —",
+    "size": 10.2,
+    "bold": false
+  },
+  {
+    "kind": "line",
+    "x": 36,
+    "y": 125.1,
+    "x2": 141.5,
+    "y2": 125.1,
+    "width": 0.15
+  },
+  {
+    "kind": "text",
+    "x": 36.6,
+    "y": 124,
+    "text": "искусственное орошение",
+    "size": 10.2,
+    "bold": false,
+    "field": "irrigation",
+    "category": "definition"
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 131,
+    "text": "Река →",
+    "size": 10.2,
+    "bold": false
+  },
+  {
+    "kind": "line",
+    "x": 24,
+    "y": 132.1,
+    "x2": 57,
+    "y2": 132.1,
+    "width": 0.15
+  },
+  {
+    "kind": "text",
+    "x": 24.6,
+    "y": 131,
+    "text": "канал",
+    "size": 10.2,
+    "bold": false,
+    "field": "canal",
+    "category": "answer"
+  },
+  {
+    "kind": "text",
+    "x": 59,
+    "y": 131,
+    "text": "→ поле →",
+    "size": 10.2,
+    "bold": false
+  },
+  {
+    "kind": "line",
+    "x": 84,
+    "y": 132.1,
+    "x2": 141.5,
+    "y2": 132.1,
+    "width": 0.15
+  },
+  {
+    "kind": "text",
+    "x": 84.6,
+    "y": 131,
+    "text": "урожай",
+    "size": 10.2,
+    "bold": false,
+    "field": "harvest",
+    "category": "answer"
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 138,
+    "text": "Один канал:",
+    "size": 10.2,
+    "bold": false
+  },
+  {
+    "kind": "line",
+    "x": 35,
+    "y": 139.1,
+    "x2": 141.5,
+    "y2": 139.1,
+    "width": 0.15
+  },
+  {
+    "kind": "text",
+    "x": 35.6,
+    "y": 138,
+    "text": "Даргом",
+    "size": 10.2,
+    "bold": false,
+    "field": "channel",
+    "category": "example"
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 145,
+    "text": "Два ремесла:",
+    "size": 10.2,
+    "bold": false
+  },
+  {
+    "kind": "line",
+    "x": 38,
+    "y": 146.1,
+    "x2": 141.5,
+    "y2": 146.1,
+    "width": 0.15
+  },
+  {
+    "kind": "text",
+    "x": 38.6,
+    "y": 145,
+    "text": "стеклоделие, гончарство",
+    "size": 10.2,
+    "bold": false,
+    "field": "crafts",
+    "category": "example"
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 153,
+    "text": "5  ТОРГОВЛЯ",
+    "size": 9.8,
+    "bold": true
+  },
+  {
+    "kind": "line",
+    "x": 7,
+    "y": 154.7,
+    "x2": 141.5,
+    "y2": 154.7,
+    "width": 0.22
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 159,
+    "text": "Пошлина —",
+    "size": 10.2,
+    "bold": false
+  },
+  {
+    "kind": "line",
+    "x": 33,
+    "y": 160.1,
+    "x2": 141.5,
+    "y2": 160.1,
+    "width": 0.15
+  },
+  {
+    "kind": "text",
+    "x": 33.6,
+    "y": 159,
+    "text": "плата за провоз товаров",
+    "size": 10.2,
+    "bold": false,
+    "field": "duty",
+    "category": "definition"
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 166,
+    "text": "Язык международной торговли:",
+    "size": 10.2,
+    "bold": false
+  },
+  {
+    "kind": "line",
+    "x": 78,
+    "y": 167.1,
+    "x2": 141.5,
+    "y2": 167.1,
+    "width": 0.15
+  },
+  {
+    "kind": "text",
+    "x": 78.6,
+    "y": 166,
+    "text": "согдийский",
+    "size": 10.2,
+    "bold": false,
+    "field": "language",
+    "category": "answer"
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 173,
+    "text": "В обращении были серебряные и медные монеты.",
+    "size": 9.8,
+    "bold": false
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 181,
+    "text": "6  ГОРОДА И КУЛЬТУРА",
+    "size": 9.8,
+    "bold": true
+  },
+  {
+    "kind": "line",
+    "x": 7,
+    "y": 182.7,
+    "x2": 141.5,
+    "y2": 182.7,
+    "width": 0.22
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 187,
+    "text": "Сосуществовали зороастризм, буддизм и другие верования.",
+    "size": 9.2,
+    "bold": false
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 194,
+    "text": "«Город торговцев» —",
+    "size": 10.2,
+    "bold": false
+  },
+  {
+    "kind": "line",
+    "x": 53,
+    "y": 195.1,
+    "x2": 141.5,
+    "y2": 195.1,
+    "width": 0.15
+  },
+  {
+    "kind": "text",
+    "x": 53.6,
+    "y": 194,
+    "text": "Пайкенд",
+    "size": 10.2,
+    "bold": false,
+    "field": "paikend",
+    "category": "answer"
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 201,
+    "text": "Городам помогали",
+    "size": 10.2,
+    "bold": false
+  },
+  {
+    "kind": "line",
+    "x": 51,
+    "y": 202.1,
+    "x2": 141.5,
+    "y2": 202.1,
+    "width": 0.15
+  },
+  {
+    "kind": "text",
+    "x": 51.6,
+    "y": 201,
+    "text": "вода, ремёсла и торговля",
+    "size": 10.2,
+    "bold": false,
+    "field": "conclusion",
+    "category": "answer"
+  }
+]
